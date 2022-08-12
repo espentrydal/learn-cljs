@@ -111,4 +111,4 @@ goog.addDependency("../process/env.js", ['process.env'], ['cljs.core']);
 goog.addDependency("debug/errorhandler.js", ['goog.debug.ErrorHandler', 'goog.debug.ErrorHandler.ProtectedFunctionError'], ['goog.Disposable', 'goog.asserts', 'goog.debug.EntryPointMonitor', 'goog.debug.Error']);
 goog.addDependency("events/eventwrapper.js", ['goog.events.EventWrapper'], []);
 goog.addDependency("events/eventlike.js", ['goog.events.EventLike'], []);
-goog.addDependency("../reagent_checklist/core.js", ['reagent_checklist.core'], ['cljs.core']);
+goog.addDependency("../learn_cljs/core.js", ['learn_cljs.core'], ['cljs.core']);

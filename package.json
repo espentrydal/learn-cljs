@@ -1,8 +1,8 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
+  "name": "learn-cljs",
+  "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/learn-cljs/core.cljs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
+    "nbb": "^0.7.132",
     "node-fetch": "^3.2.6"
   }
 }
