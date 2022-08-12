@@ -1,0 +1,5 @@
+-m
+cljs.main
+--compile
+reagent-checklist.core
+--repl
