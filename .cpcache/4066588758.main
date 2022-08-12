@@ -1,5 +1,5 @@
 -m
 cljs.main
 --compile
-reagent-checklist.core
+learn-cljs.core
 --repl
